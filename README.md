@@ -1,0 +1,1 @@
+# amplify-auth-custom-federation
